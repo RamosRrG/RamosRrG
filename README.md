@@ -28,5 +28,7 @@
 ## 🔗 Repositórios Destacados
 
 [![Jogo da Organização](https://github.com/gaspanhol/AtividadeDeExtensao-Jogos01-2026.01)
+
 [![Site Ecomerce Livros](https://github.com/FRONTEND20261/projeto02-thy-mighty-tome)
+
 [![Site](https://github.com/vitoraugustosz/Projeto-Robocode-Talikda)
