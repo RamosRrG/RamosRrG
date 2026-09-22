@@ -23,3 +23,10 @@
   <img align="center" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
+---
+
+## 🔗 Repositórios Destacados
+
+[![Jogo da Organização](https://github.com/gaspanhol/AtividadeDeExtensao-Jogos01-2026.01)
+[![Site Ecomerce Livros](https://github.com/FRONTEND20261/projeto02-thy-mighty-tome)
+[![Site](https://github.com/vitoraugustosz/Projeto-Robocode-Talikda)
