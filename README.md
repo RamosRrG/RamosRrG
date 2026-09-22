@@ -4,7 +4,7 @@
 
 * 🎓 **Estudante de:** Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal de Santa Catarina (IFSC).
 * 📚 **Fase Atual:** Estou na 3ª fase do curso, explorando conceitos fundamentais de programação, banco de dados, estrutura de dados e desenvolvimento web.
-* 💼 ****Atualmente Trabalho na Intelbras.**
+* 💼 **Atualmente Trabalho na Intelbras.**
 
 ---
 
